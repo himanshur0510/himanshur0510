@@ -19,12 +19,8 @@ B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham, pas
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=himanshur0510&show_icons=true&theme=tokyonight&hide_border=true)
+[![Himanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshur0510&theme=tokyo-night)](https://github.com/himanshur0510)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshur0510/himanshur0510/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 ## Connect
 
 - GitHub: https://github.com/himanshur0510

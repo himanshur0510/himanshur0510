@@ -20,7 +20,3 @@ B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham, pas
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=himanshur0510&show_icons=true&theme=tokyonight&hide_border=true)
 [![Himanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshur0510&theme=tokyo-night)](https://github.com/himanshur0510)
-
-## Connect
-
-- GitHub: https://github.com/himanshur0510

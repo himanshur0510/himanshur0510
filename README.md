@@ -35,31 +35,25 @@
 
 ---
 
-## 🧩 LeetCode Statistics
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/himanshur0510?theme=dark)](https://leetcode.com/u/himanshur0510/)
-
-### 🔥 LeetCode Streak
+## 🔥 LeetCode Streak
 
 ![LeetCode Streak](https://leetcode-stats.vercel.app/api?username=himanshur0510&theme=dark)
 
 ---
 
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshur0510&theme=tokyo-night)
-
----
-
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p>
-  <a href="https://github.com/himanshur0510">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:himanshurameshcollege@gmail.com">
+    <img src="https://img.shields.io/badge/Email-himanshurameshcollege%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+
+  <a href="https://github.com/himanshur0510">
+    <img src="https://img.shields.io/badge/GitHub-himanshur0510-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="https://leetcode.com/u/himanshur0510/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-himanshur0510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 

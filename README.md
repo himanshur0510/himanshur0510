@@ -27,36 +27,43 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshur0510&theme=tokyonight" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=himanshur0510&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshur0510&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=himanshur0510&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ## 🧩 LeetCode Statistics
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/himanshur0510?theme=dark)](https://leetcode.com/u/himanshur0510/)
+<p align="center">
+  <a href="https://leetcode.com/u/himanshur0510/">
+    <img src="https://leetcard.jacoblin.cool/himanshur0510?theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-<p>
-  <a href="mailto:himanshurameshcollege@gmail.com">
-    <img src="https://img.shields.io/badge/Email-himanshurameshcollege%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center">
 
-<p>
-  <a href="https://github.com/himanshur0510">
-    <img src="https://img.shields.io/badge/GitHub-himanshur0510-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:himanshurameshcollege@gmail.com">
+<img src="https://img.shields.io/badge/Email-himanshurameshcollege%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://leetcode.com/u/himanshur0510/">
-    <img src="https://img.shields.io/badge/LeetCode-himanshur0510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+<br><br>
+
+<a href="https://github.com/himanshur0510">
+<img src="https://img.shields.io/badge/GitHub-himanshur0510-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/himanshur0510/">
+<img src="https://img.shields.io/badge/LeetCode-himanshur0510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </p>
 
 ---

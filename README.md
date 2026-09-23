@@ -1,23 +1,31 @@
 # Hi, I'm Himanshu 👋
 
-B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham, passionate about Data Structures & Algorithms, Java, and C++. I enjoy solving coding problems and continuously improving my problem-solving skills.
+🎓 B.Tech Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-## About Me
+💻 Passionate about **Data Structures & Algorithms, Java, C++**, and Software Development.  
+🧩 I enjoy solving coding problems and continuously improving my problem-solving skills.
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student
 - 💻 Learning Data Structures & Algorithms
-- 🧩 Interested in Software Development and Competitive Programming
-- 🏆 Practicing problems on LeetCode
+- 🧠 Interested in Software Development and Competitive Programming
+- 🏆 Practicing coding problems on LeetCode
+- 🚀 Continuously improving my programming and problem-solving skills
 
-## Technologies
+---
 
-- Java
-- C++
-- Python
-- HTML
-- JavaScript
+## 🛠️ Technologies
 
-## GitHub Statistics
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=himanshur0510&show_icons=true&theme=tokyonight&hide_border=true" />
 
@@ -25,14 +33,36 @@ B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham, pas
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=himanshur0510&theme=tokyonight&hide_border=true)
 
-## LeetCode Statistics
+---
+
+## 🧩 LeetCode Statistics
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/himanshur0510?theme=dark)](https://leetcode.com/u/himanshur0510/)
 
-## LeetCode Activity
+### 🔥 LeetCode Streak
 
-![LeetCode Activity](https://leetcard.jacoblin.cool/himanshur0510?ext=activity&theme=dark)
+![LeetCode Streak](https://leetcode-stats.vercel.app/api?username=himanshur0510&theme=dark)
 
-## GitHub Activity Graph
+---
+
+## 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshur0510&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/himanshur0510">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/himanshur0510/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile!

@@ -46,24 +46,22 @@
 
 ## 📫 Contact Me
 
-<p align="center">
+<p>
+  <a href="mailto:himanshurameshcollege@gmail.com">
+    <img src="https://img.shields.io/badge/Email-himanshurameshcollege%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:himanshurameshcollege@gmail.com">
-<img src="https://img.shields.io/badge/Email-himanshurameshcollege%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/himanshur0510">
+    <img src="https://img.shields.io/badge/GitHub-himanshur0510-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
-
-<a href="https://github.com/himanshur0510">
-<img src="https://img.shields.io/badge/GitHub-himanshur0510-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/himanshur0510/">
-<img src="https://img.shields.io/badge/LeetCode-himanshur0510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
+<p>
+  <a href="https://leetcode.com/u/himanshur0510/">
+    <img src="https://img.shields.io/badge/LeetCode-himanshur0510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
